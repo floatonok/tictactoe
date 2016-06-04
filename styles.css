@@ -35,7 +35,7 @@ main {
 }
 
 .square {
-    border: 2px dashed black;
+    border: 1px dashed black;
     flex: 1;
     justify-content: space-between;
     font-size: 80px;
@@ -43,6 +43,6 @@ main {
     padding-top: 30px;
 }
 
-button {
-    margin: 10px auto;
+footer {
+    text-align: center;
 }
